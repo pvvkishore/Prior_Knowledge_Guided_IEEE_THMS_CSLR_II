@@ -1,0 +1,10 @@
+{
+  "total_samples": 7095,
+  "total_words": 55403,
+  "correct_words": 49047,
+  "substitutions": 2127,
+  "insertions": 4189,
+  "deletions": 40,
+  "accuracy": 0.8852769705611,
+  "wer": 0.87571431149937726
+}
