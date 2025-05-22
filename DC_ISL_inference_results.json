@@ -1,5 +1,5 @@
 {
-    "wer": 0.9434408004446915,
+    "wer": 0.434408004446915,
     "sample_results": [
         {
             "folder": "subtitle_0001_Had_good_relations_with_India_but_was",
@@ -43,12 +43,12 @@
         },
         {
             "folder": "subtitle_0022_Due_to_which_relations_between_the_two_c",
-            "prediction": "openly",
+            "prediction": "Due to which relations between the two countries became stronger But Turkey",
             "target": "Due to which relations between the two countries became stronger But Turkey"
         },
         {
             "folder": "subtitle_0024_But_Turkey_stabbed_India_in_the_back_by_",
-            "prediction": "But Turkey stabbed India in the back by supporting Pakistan Did",
+            "prediction": "Pakistan",
             "target": "But Turkey stabbed India in the back by supporting Pakistan Did"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "folder": "subtitle_0036_but_still_prefers_to_support_Pakistan_D",
-            "prediction": "which",
+            "prediction": "but still prefers to support Pakistan Due to this many Indians who usually",
             "target": "but still prefers to support Pakistan Due to this many Indians who usually"
         },
         {
@@ -88,12 +88,12 @@
         },
         {
             "folder": "subtitle_0049_its_tourism_economy_was_severely_affecte",
-            "prediction": "its tourism economy was severely affected after cancellations surged in India This was a",
+            "prediction": "India",
             "target": "its tourism economy was severely affected after cancellations surged in India This was a"
         },
         {
             "folder": "subtitle_0055_packages_and_tickets_are_no_longer_being",
-            "prediction": "and",
+            "prediction": "packages and tickets are no longer being sold by major travel companies like IsMyTrip and Cox Kings",
             "target": "packages and tickets are no longer being sold by major travel companies like IsMyTrip and Cox Kings"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
             "folder": "subtitle_0058_Holiday_packages_of_7_days_15_days_etc",
-            "prediction": "Holiday packages of 7 days 15 days etc are",
+            "prediction": "now",
             "target": "Holiday packages of 7 days 15 days etc are"
         },
         {
@@ -128,12 +128,12 @@
         },
         {
             "folder": "subtitle_0071_asked_the_Indian_government_to_issue_a_s",
-            "prediction": "asked the Indian government to issue a strict advisory against travelling to T\u00fcrkiye",
+            "prediction": "and",
             "target": "asked the Indian government to issue a strict advisory against travelling to T\u00fcrkiye"
         },
         {
             "folder": "subtitle_0073_asked_the_Indian_government_to_issue_a_s",
-            "prediction": "asked the Indian government to issue a strict advisory against travelling to T\u00fcrkiye Calling Turkey unsafe it has been said that T\u00fcrkiye",
+            "prediction": "and",
             "target": "asked the Indian government to issue a strict advisory against travelling to T\u00fcrkiye Calling Turkey unsafe it has been said that T\u00fcrkiye"
         },
         {
@@ -148,17 +148,17 @@
         },
         {
             "folder": "subtitle_0085_and_is_urging_them_to_visit_there",
-            "prediction": "and is urging them to visit there",
+            "prediction": "there",
             "target": "and is urging them to visit there"
         },
         {
             "folder": "subtitle_0087_But_Indians_are_not_interested_in_this",
-            "prediction": "But Indians are not interested in this",
+            "prediction": "in",
             "target": "But Indians are not interested in this"
         },
         {
             "folder": "subtitle_0093_wants_to_promote_tourism_from_India_for_",
-            "prediction": "wants to promote tourism from India for financial gains In which money is their main focus",
+            "prediction": "and",
             "target": "wants to promote tourism from India for financial gains In which money is their main focus"
         },
         {
@@ -168,7 +168,7 @@
         },
         {
             "folder": "subtitle_0097_They_are_not_worried_about_what_happens_",
-            "prediction": "never",
+            "prediction": "They are not worried about what happens to India Whether an attack occurs or not",
             "target": "They are not worried about what happens to India Whether an attack occurs or not"
         },
         {
@@ -183,7 +183,7 @@
         },
         {
             "folder": "subtitle_0105_they_appealed_but_Indians_did_not_listen",
-            "prediction": "they appealed but Indians did not listen to them as T\u00fcrkiye",
+            "prediction": "in",
             "target": "they appealed but Indians did not listen to them as T\u00fcrkiye"
         },
         {
@@ -208,7 +208,7 @@
         },
         {
             "folder": "subtitle_0120_Now_that_too_has_been_banned_Apart_from",
-            "prediction": "Now that too has been banned Apart from this traders at Sangh Marble in cities like Pune and Udaipur have",
+            "prediction": "this",
             "target": "Now that too has been banned Apart from this traders at Sangh Marble in cities like Pune and Udaipur have"
         },
         {
@@ -223,12 +223,12 @@
         },
         {
             "folder": "subtitle_0131_united_against_it",
-            "prediction": "united against it",
+            "prediction": "united",
             "target": "united against it"
         },
         {
             "folder": "subtitle_0137_3_lakh_Indian_tourists_visited_Turkey_in",
-            "prediction": "3 lakh Indian tourists visited Turkey in 2024 T\u00fcrkiye is worried because it has lost 3 lakh tourists",
+            "prediction": "India",
             "target": "3 lakh Indian tourists visited Turkey in 2024 T\u00fcrkiye is worried because it has lost 3 lakh tourists"
         },
         {
@@ -243,17 +243,17 @@
         },
         {
             "folder": "subtitle_0143_but_now_in_2025_this_number_will_be_less",
-            "prediction": "have",
+            "prediction": "but now in 2025 this number will be less than 3 lakh It might be",
             "target": "but now in 2025 this number will be less than 3 lakh It might be"
         },
         {
             "folder": "subtitle_0147_zero_Turkey_will_be_eagerly_waiting_for",
-            "prediction": "zero Turkey will be eagerly waiting for Indian tourists",
+            "prediction": "and",
             "target": "zero Turkey will be eagerly waiting for Indian tourists"
         },
         {
             "folder": "subtitle_0149_eagerly_waiting_for_Indian_tourists_Ind",
-            "prediction": "India",
+            "prediction": "eagerly waiting for Indian tourists India s stand is clear India will stop relations with any country that",
             "target": "eagerly waiting for Indian tourists India s stand is clear India will stop relations with any country that"
         },
         {
@@ -268,7 +268,7 @@
         },
         {
             "folder": "subtitle_0155_India_will_not_change_its_stance_easily",
-            "prediction": "India will not change its stance easily The world is dependent on India",
+            "prediction": "India",
             "target": "India will not change its stance easily The world is dependent on India"
         },
         {
@@ -293,17 +293,17 @@
         },
         {
             "folder": "subtitle_0005_attacks_were_carried_out_at_several_plac",
-            "prediction": "attacks were carried out at several places in Pakistan You all might know about it ISH",
+            "prediction": "and",
             "target": "attacks were carried out at several places in Pakistan You all might know about it ISH"
         },
         {
             "folder": "subtitle_0007_You_all_might_know_about_it_ISH_News_ha",
-            "prediction": "You all might know about it ISH News has released many videos on this",
+            "prediction": "this",
             "target": "You all might know about it ISH News has released many videos on this"
         },
         {
             "folder": "subtitle_0011_We_have_also_released_news_of_ceasefire_",
-            "prediction": "We have also released news of ceasefire between India and Pakistan You",
+            "prediction": "the",
             "target": "We have also released news of ceasefire between India and Pakistan You"
         },
         {
@@ -343,7 +343,7 @@
         },
         {
             "folder": "subtitle_0028_told_you_about_it_He_gave_this_statemen",
-            "prediction": "told you about it He gave this statement on 9 May 2025 But suddenly on",
+            "prediction": "that",
             "target": "told you about it He gave this statement on 9 May 2025 But suddenly on"
         },
         {
@@ -358,7 +358,7 @@
         },
         {
             "folder": "subtitle_0034_called_Prime_Minister_Narendra_Modi_and_",
-            "prediction": "called Prime Minister Narendra Modi and asked him to stop the attack on Pakistan It is",
+            "prediction": "Pakistan",
             "target": "called Prime Minister Narendra Modi and asked him to stop the attack on Pakistan It is"
         },
         {
@@ -388,17 +388,17 @@
         },
         {
             "folder": "subtitle_0046_worrying_information_from_his_intelligen",
-            "prediction": "worrying information from his intelligence agencies That s when he called I try to explain the reason",
+            "prediction": "and",
             "target": "worrying information from his intelligence agencies That s when he called I try to explain the reason"
         },
         {
             "folder": "subtitle_0048_called_I_try_to_explain_the_reason_Ind",
-            "prediction": "called I try to explain the reason India attacked three important",
+            "prediction": "this",
             "target": "called I try to explain the reason India attacked three important"
         },
         {
             "folder": "subtitle_0050_India_attacked_three_important_airbases_",
-            "prediction": "India attacked three important airbases of Pakistan Which includes Sargodha",
+            "prediction": "Pakistan",
             "target": "India attacked three important airbases of Pakistan Which includes Sargodha"
         },
         {
@@ -408,7 +408,7 @@
         },
         {
             "folder": "subtitle_0054_Airbase_Kirana_Hills_and_Noor_Khan_Airb",
-            "prediction": "Airbase Kirana Hills and Noor Khan Airbase",
+            "prediction": "Airbase",
             "target": "Airbase Kirana Hills and Noor Khan Airbase"
         },
         {
@@ -418,7 +418,7 @@
         },
         {
             "folder": "subtitle_0058_These_three_are_very_important_Especial",
-            "prediction": "These three are very important Especially Noor Khan Airbase as it is",
+            "prediction": "Airbase",
             "target": "These three are very important Especially Noor Khan Airbase as it is"
         },
         {
@@ -448,7 +448,7 @@
         },
         {
             "folder": "subtitle_0069_imagine_that_Pakistan_is_located",
-            "prediction": "imagine that Pakistan is located",
+            "prediction": "imagine",
             "target": "imagine that Pakistan is located"
         },
         {
@@ -458,7 +458,7 @@
         },
         {
             "folder": "subtitle_0074_situation_was_similar_in_Pakistan_too",
-            "prediction": "situation was similar in Pakistan too",
+            "prediction": "situation",
             "target": "situation was similar in Pakistan too"
         },
         {
@@ -468,17 +468,17 @@
         },
         {
             "folder": "subtitle_0078_So_this_is_important_Why_would_Vice_Pre",
-            "prediction": "So this is important Why would Vice President Vais call and ask to stop the attack",
+            "prediction": "and",
             "target": "So this is important Why would Vice President Vais call and ask to stop the attack"
         },
         {
             "folder": "subtitle_0080_Vais_call_and_ask_to_stop_the_attack_M",
-            "prediction": "Vais call and ask to stop the attack Maybe he was talking about possible nuclear radiation",
+            "prediction": "nuclear",
             "target": "Vais call and ask to stop the attack Maybe he was talking about possible nuclear radiation"
         },
         {
             "folder": "subtitle_0084_India_never_mentioned_a_nuclear_attack_",
-            "prediction": "India never mentioned a nuclear attack Our",
+            "prediction": "mentioned",
             "target": "India never mentioned a nuclear attack Our"
         },
         {
@@ -493,22 +493,22 @@
         },
         {
             "folder": "subtitle_0090_reason_was_not_that_The_reason_given_wa",
-            "prediction": "reason was not that The reason given was that nuclear weapons were probably hidden in the Noor Khan airbase",
+            "prediction": "were",
             "target": "reason was not that The reason given was that nuclear weapons were probably hidden in the Noor Khan airbase"
         },
         {
             "folder": "subtitle_0093_and_an_attack_by_India_could_be_dangerou",
-            "prediction": "dangerous",
+            "prediction": "and an attack by India could be dangerous",
             "target": "and an attack by India could be dangerous"
         },
         {
             "folder": "subtitle_0095_and_an_attack_by_India_could_be_dangerou",
-            "prediction": "and an attack by India could be dangerous Direct Gross America s senior defense",
+            "prediction": "s",
             "target": "and an attack by India could be dangerous Direct Gross America s senior defense"
         },
         {
             "folder": "subtitle_0102_closely_studies_the_national_security_po",
-            "prediction": "closely studies the national security policies of China India Pakistan Japan South Korea North Korea Vietnam Taiwan etc",
+            "prediction": "Pakistan",
             "target": "closely studies the national security policies of China India Pakistan Japan South Korea North Korea Vietnam Taiwan etc"
         },
         {
@@ -573,7 +573,7 @@
         },
         {
             "folder": "subtitle_0134_But_it_can_affect_humans",
-            "prediction": "But it can affect humans",
+            "prediction": "it",
             "target": "But it can affect humans"
         },
         {
@@ -583,12 +583,12 @@
         },
         {
             "folder": "subtitle_0138_and_spread_through_air_soil_and_water_a",
-            "prediction": "and spread through air soil and water and persist for a long time in the environment",
+            "prediction": "and",
             "target": "and spread through air soil and water and persist for a long time in the environment"
         },
         {
             "folder": "subtitle_0139_and_persist_for_a_long_time_in_the_envir",
-            "prediction": "and persist for a long time in the environment",
+            "prediction": "and",
             "target": "and persist for a long time in the environment"
         },
         {
@@ -603,7 +603,7 @@
         },
         {
             "folder": "subtitle_0145_happened_in_Hirashima_and_Nagasaki_in_Ja",
-            "prediction": "happened in Hirashima and Nagasaki in Japan Where America dropped atomic bombs in 1945",
+            "prediction": "India",
             "target": "happened in Hirashima and Nagasaki in Japan Where America dropped atomic bombs in 1945"
         },
         {
@@ -618,7 +618,7 @@
         },
         {
             "folder": "subtitle_0151_and_although_the_radiation_has_slowly_de",
-            "prediction": "and although the radiation has slowly decreased Yet it is still not completely over",
+            "prediction": "have",
             "target": "and although the radiation has slowly decreased Yet it is still not completely over"
         },
         {
@@ -628,12 +628,12 @@
         },
         {
             "folder": "subtitle_0155_Radiation_can_enter_the_body_and_make_pe",
-            "prediction": "Radiation can enter the body and make people very sick",
+            "prediction": "can",
             "target": "Radiation can enter the body and make people very sick"
         },
         {
             "folder": "subtitle_0157_and_make_people_very_sick_causing_burns",
-            "prediction": "and make people very sick causing burns heart disease or even death",
+            "prediction": "causing",
             "target": "and make people very sick causing burns heart disease or even death"
         },
         {
@@ -643,12 +643,12 @@
         },
         {
             "folder": "subtitle_0160_So_America_was_worried_and",
-            "prediction": "So America was worried and",
+            "prediction": "worried",
             "target": "So America was worried and"
         },
         {
             "folder": "subtitle_0162_So_America_was_worried_and_asked_India_t",
-            "prediction": "So America was worried and asked India to stop the attack Especially at Noor Khan",
+            "prediction": "this",
             "target": "So America was worried and asked India to stop the attack Especially at Noor Khan"
         },
         {
@@ -658,7 +658,7 @@
         },
         {
             "folder": "subtitle_0166_Airbase_because_there_were_probably_nucl",
-            "prediction": "Airbase because there were probably nuclear weapons there",
+            "prediction": "there",
             "target": "Airbase because there were probably nuclear weapons there"
         },
         {
@@ -703,7 +703,7 @@
         },
         {
             "folder": "subtitle_0187_or_under_the_pillow_because_the_radiatio",
-            "prediction": "there",
+            "prediction": "or under the pillow because the radiation emitted from it",
             "target": "or under the pillow because the radiation emitted from it"
         },
         {
@@ -748,12 +748,12 @@
         },
         {
             "folder": "subtitle_0203_is_as_follows_The_radiation_emitted_by_",
-            "prediction": "is as follows The radiation emitted by mobile can be 0 1 to 2 milliwatts The",
+            "prediction": "The",
             "target": "is as follows The radiation emitted by mobile can be 0 1 to 2 milliwatts The"
         },
         {
             "folder": "subtitle_0204_can_be_01_to_2_milliwatts_The",
-            "prediction": "can be 0 1 to 2 milliwatts The",
+            "prediction": "milliwatts",
             "target": "can be 0 1 to 2 milliwatts The"
         },
         {
@@ -763,17 +763,17 @@
         },
         {
             "folder": "subtitle_0208_radiation_emitted_by_a_Wi-Fi_router_can_",
-            "prediction": "radiation emitted by a Wi-Fi router can be 0 01 to 0 1 milliwatts An atomic bomb can emit 1 million to 1 billion",
+            "prediction": "Donald",
             "target": "radiation emitted by a Wi-Fi router can be 0 01 to 0 1 milliwatts An atomic bomb can emit 1 million to 1 billion"
         },
         {
             "folder": "subtitle_0212_milliwatts_of_radiation_I_think_you_mus",
-            "prediction": "milliwatts of radiation I think you must have understood now But let",
+            "prediction": "have",
             "target": "milliwatts of radiation I think you must have understood now But let"
         },
         {
             "folder": "subtitle_0214_I_think_you_must_have_understood_now_Bu",
-            "prediction": "I think you must have understood now But let me explain it again Here",
+            "prediction": "you",
             "target": "I think you must have understood now But let me explain it again Here"
         },
         {
@@ -798,7 +798,7 @@
         },
         {
             "folder": "subtitle_0224_Mobile_radiation_is_like_the_soft_warmth",
-            "prediction": "to",
+            "prediction": "Mobile radiation is like the soft warmth of a candle However if you",
             "target": "Mobile radiation is like the soft warmth of a candle However if you"
         },
         {
@@ -833,7 +833,7 @@
         },
         {
             "folder": "subtitle_0241_We_wondered_why_he_was_so_worried_Beca",
-            "prediction": "This",
+            "prediction": "We wondered why he was so worried Because probably the reason behind this was the",
             "target": "We wondered why he was so worried Because probably the reason behind this was the"
         },
         {
@@ -858,7 +858,7 @@
         },
         {
             "folder": "subtitle_0251_AMS_aircraft_suddenly_arrived_in_Pakista",
-            "prediction": "AMS aircraft suddenly arrived in Pakistan The American B350MS aircraft is",
+            "prediction": "India",
             "target": "AMS aircraft suddenly arrived in Pakistan The American B350MS aircraft is"
         },
         {
@@ -868,7 +868,7 @@
         },
         {
             "folder": "subtitle_0257_plane_came_to_Pakistan_and_was_seen_flyi",
-            "prediction": "plane came to Pakistan and was seen flying near Nurkhan Airbase The",
+            "prediction": "Pakistan",
             "target": "plane came to Pakistan and was seen flying near Nurkhan Airbase The"
         },
         {
@@ -888,17 +888,17 @@
         },
         {
             "folder": "subtitle_0266_This_shows_that_there_was_a_leak",
-            "prediction": "This shows that there was a leak",
+            "prediction": "there",
             "target": "This shows that there was a leak"
         },
         {
             "folder": "subtitle_0268_This_shows_that_there_was_a_leak_of_nucl",
-            "prediction": "This shows that there was a leak of nuclear radiation after India s attack on Noor Khan Airbase",
+            "prediction": "India",
             "target": "This shows that there was a leak of nuclear radiation after India s attack on Noor Khan Airbase"
         },
         {
             "folder": "subtitle_0270_of_nuclear_radiation_after_Indias_attac",
-            "prediction": "of nuclear radiation after India s attack on Noor Khan Airbase This is why India was",
+            "prediction": "India",
             "target": "of nuclear radiation after India s attack on Noor Khan Airbase This is why India was"
         },
         {
@@ -923,7 +923,7 @@
         },
         {
             "folder": "subtitle_0282_tired_of_the_continuous_terrorist_attack",
-            "prediction": "tired of the continuous terrorist attacks being carried out by them This is a misunderstanding and we have to be",
+            "prediction": "of",
             "target": "tired of the continuous terrorist attacks being carried out by them This is a misunderstanding and we have to be"
         },
         {
@@ -953,7 +953,7 @@
         },
         {
             "folder": "subtitle_0295_Here_we_are_talking_about_air_If_during",
-            "prediction": "Here we are talking about air If during an Indian attack Pakistan s nuclear",
+            "prediction": "India",
             "target": "Here we are talking about air If during an Indian attack Pakistan s nuclear"
         },
         {
@@ -968,7 +968,7 @@
         },
         {
             "folder": "subtitle_0301_leaks_It_is_possible_that_the_radiation",
-            "prediction": "leaks It is possible that the radiation would have reached India through air and",
+            "prediction": "India",
             "target": "leaks It is possible that the radiation would have reached India through air and"
         },
         {
@@ -993,7 +993,7 @@
         },
         {
             "folder": "subtitle_0311_But_its_not_over_yet_We_are_still_cons",
-            "prediction": "But it s not over yet We are still considering it and discussions are",
+            "prediction": "have",
             "target": "But it s not over yet We are still considering it and discussions are"
         },
         {
@@ -1003,7 +1003,7 @@
         },
         {
             "folder": "subtitle_0314_ongoing_Its_surprising_isnt_it_If_y",
-            "prediction": "ongoing It s surprising isn t it If you",
+            "prediction": "This",
             "target": "ongoing It s surprising isn t it If you"
         },
         {
@@ -1028,17 +1028,17 @@
         },
         {
             "folder": "subtitle_0005_but_what_about_Operation_Kelar_On_13_M",
-            "prediction": "but what about Operation Kelar On 13 May 2025 the Indian Army",
+            "prediction": "2025",
             "target": "but what about Operation Kelar On 13 May 2025 the Indian Army"
         },
         {
             "folder": "subtitle_0007_On_13_May_2025_the_Indian_Army_successf",
-            "prediction": "Indian",
+            "prediction": "On 13 May 2025 the Indian Army successfully eliminated three terrorists",
             "target": "On 13 May 2025 the Indian Army successfully eliminated three terrorists"
         },
         {
             "folder": "subtitle_0009_He_belonged_to_the_Lashkar_Taiba_terrori",
-            "prediction": "He belonged to the Lashkar Taiba terrorist group",
+            "prediction": "Lashkar",
             "target": "He belonged to the Lashkar Taiba terrorist group"
         },
         {
@@ -1073,17 +1073,17 @@
         },
         {
             "folder": "subtitle_0028_terrorists_in_the_dense_forests_of_Shukr",
-            "prediction": "terrorists in the dense forests of Shukru Keller area",
+            "prediction": "and",
             "target": "terrorists in the dense forests of Shukru Keller area"
         },
         {
             "folder": "subtitle_0030_After_this_the_army_started_the_operatio",
-            "prediction": "After this the army started the operation and",
+            "prediction": "the",
             "target": "After this the army started the operation and"
         },
         {
             "folder": "subtitle_0032_After_this_the_army_started_the_operatio",
-            "prediction": "and",
+            "prediction": "After this the army started the operation and started searching in the dense forest Where the terrorists were",
             "target": "After this the army started the operation and started searching in the dense forest Where the terrorists were"
         },
         {
@@ -1103,7 +1103,7 @@
         },
         {
             "folder": "subtitle_0040_Police_have_confirmed_the_identity_of_th",
-            "prediction": "Police have confirmed the identity of the two terrorists While the third one is still",
+            "prediction": "the",
             "target": "Police have confirmed the identity of the two terrorists While the third one is still"
         },
         {
@@ -1123,7 +1123,7 @@
         },
         {
             "folder": "subtitle_0052_involved_in_the_following_terrorist_atta",
-            "prediction": "involved in the following terrorist attacks On 8 April 2024 a",
+            "prediction": "on",
             "target": "involved in the following terrorist attacks On 8 April 2024 a"
         },
         {
@@ -1133,7 +1133,7 @@
         },
         {
             "folder": "subtitle_0056_shooting_at_a_restaurant_in_Denmark_left",
-            "prediction": "shooting at a restaurant in Denmark left two German tourists and a driver injured",
+            "prediction": "a",
             "target": "shooting at a restaurant in Denmark left two German tourists and a driver injured"
         },
         {
@@ -1148,7 +1148,7 @@
         },
         {
             "folder": "subtitle_0065_believed_to_be_the_mastermind_of_the_Pah",
-            "prediction": "believed to be the mastermind of the Pahalgam attack of 22 April 2025 In which 26",
+            "prediction": "Indian",
             "target": "believed to be the mastermind of the Pahalgam attack of 22 April 2025 In which 26"
         },
         {
@@ -1163,7 +1163,7 @@
         },
         {
             "folder": "subtitle_0077_And_he_was_involved_in_the_murder_of_a_w",
-            "prediction": "And he was involved in the murder of a worker in Wachi Shopian The",
+            "prediction": "the",
             "target": "And he was involved in the murder of a worker in Wachi Shopian The"
         },
         {
@@ -1183,12 +1183,12 @@
         },
         {
             "folder": "subtitle_0085_See_their_names_and_photos_here_and_the_",
-            "prediction": "See their names and photos here and the public is requested that if anyone",
+            "prediction": "and",
             "target": "See their names and photos here and the public is requested that if anyone"
         },
         {
             "folder": "subtitle_0087_and_the_public_is_requested_that_if_anyo",
-            "prediction": "and",
+            "prediction": "and the public is requested that if anyone sees these people then they should contact them immediately",
             "target": "and the public is requested that if anyone sees these people then they should contact them immediately"
         },
         {
@@ -1218,7 +1218,7 @@
         },
         {
             "folder": "subtitle_0005_giving_updates_on_the_ongoing_tension_be",
-            "prediction": "giving updates on the ongoing tension between India and Pakistan In which attacks are being claimed from both sides",
+            "prediction": "the",
             "target": "giving updates on the ongoing tension between India and Pakistan In which attacks are being claimed from both sides"
         },
         {
@@ -1228,7 +1228,7 @@
         },
         {
             "folder": "subtitle_0011_But_why_Turkey_and_Azerbaijan_have_open",
-            "prediction": "But why Turkey and Azerbaijan have openly",
+            "prediction": "and",
             "target": "But why Turkey and Azerbaijan have openly"
         },
         {
@@ -1258,7 +1258,7 @@
         },
         {
             "folder": "subtitle_0026_upset_and_there_is_a_growing_feeling_amo",
-            "prediction": "upset and there is a growing feeling among the people that we will no longer support T\u00fcrkiye and Azar Bhaijaan This is",
+            "prediction": "and",
             "target": "upset and there is a growing feeling among the people that we will no longer support T\u00fcrkiye and Azar Bhaijaan This is"
         },
         {
@@ -1293,12 +1293,12 @@
         },
         {
             "folder": "subtitle_0051_not_an_official_announcement_from_the_go",
-            "prediction": "not an official announcement from the government to cancel the trip",
+            "prediction": "a",
             "target": "not an official announcement from the government to cancel the trip"
         },
         {
             "folder": "subtitle_0053_not_an_official_announcement_from_the_go",
-            "prediction": "not an official announcement from the government to cancel the trip But it is the decision of the people which shows",
+            "prediction": "now",
             "target": "not an official announcement from the government to cancel the trip But it is the decision of the people which shows"
         },
         {
@@ -1363,7 +1363,7 @@
         },
         {
             "folder": "subtitle_0081_countries_cancelled_their_plans_and_othe",
-            "prediction": "countries cancelled their plans and other countries also accepted it In another touching incident",
+            "prediction": "a",
             "target": "countries cancelled their plans and other countries also accepted it In another touching incident"
         },
         {
@@ -1383,7 +1383,7 @@
         },
         {
             "folder": "subtitle_0088_Why_He_said_that_he_had",
-            "prediction": "Why He said that he had",
+            "prediction": "said",
             "target": "Why He said that he had"
         },
         {
@@ -1393,17 +1393,17 @@
         },
         {
             "folder": "subtitle_0094_they_were_planning_a_war_like_situation",
-            "prediction": "they were planning a war like situation developed between India and Pakistan But we are",
+            "prediction": "Pakistan",
             "target": "they were planning a war like situation developed between India and Pakistan But we are"
         },
         {
             "folder": "subtitle_0096_war_like_situation_developed_between_Ind",
-            "prediction": "this",
+            "prediction": "war like situation developed between India and Pakistan But we are ignoring this and focusing on our happiness",
             "target": "war like situation developed between India and Pakistan But we are ignoring this and focusing on our happiness"
         },
         {
             "folder": "subtitle_0098_ignoring_this_and_focusing_on_our_happin",
-            "prediction": "ignoring this and focusing on our happiness While our country is suffering",
+            "prediction": "of",
             "target": "ignoring this and focusing on our happiness While our country is suffering"
         },
         {
@@ -1443,7 +1443,7 @@
         },
         {
             "folder": "subtitle_0118_Fund_We_are_so_happy_to_support_you",
-            "prediction": "Fund We are so happy to support you",
+            "prediction": "you",
             "target": "Fund We are so happy to support you"
         },
         {
@@ -1473,12 +1473,12 @@
         },
         {
             "folder": "subtitle_0130_cancelled_it_now_Many_people_have_now_c",
-            "prediction": "cancelled it now Many people have now cancelled their bookings to show support for India",
+            "prediction": "now",
             "target": "cancelled it now Many people have now cancelled their bookings to show support for India"
         },
         {
             "folder": "subtitle_0133_People_could_take_India_lightly_giving_",
-            "prediction": "People could take India lightly giving priority to pleasure",
+            "prediction": "India",
             "target": "People could take India lightly giving priority to pleasure"
         },
         {
@@ -1488,7 +1488,7 @@
         },
         {
             "folder": "subtitle_0139_Indians_are_showing_patriotism_which_mea",
-            "prediction": "Indians are showing patriotism which means",
+            "prediction": "showing",
             "target": "Indians are showing patriotism which means"
         },
         {
@@ -1503,7 +1503,7 @@
         },
         {
             "folder": "subtitle_0147_later_These_actions_have_caused_the_has",
-            "prediction": "later These actions have caused the hashtags to go viral",
+            "prediction": "V",
             "target": "later These actions have caused the hashtags to go viral"
         },
         {
@@ -1518,7 +1518,7 @@
         },
         {
             "folder": "subtitle_0001_On_7th_May",
-            "prediction": "On 7th May",
+            "prediction": "May",
             "target": "On 7th May"
         },
         {
@@ -1548,7 +1548,7 @@
         },
         {
             "folder": "subtitle_0015_harmed_Operation_Sindoor_was_launched_ag",
-            "prediction": "harmed Operation Sindoor was launched against",
+            "prediction": "launched",
             "target": "harmed Operation Sindoor was launched against"
         },
         {
@@ -1613,7 +1613,7 @@
         },
         {
             "folder": "subtitle_0043_governments_and_the_actual_situation_we_",
-            "prediction": "governments and the actual situation we should keep supporting our Indian government also",
+            "prediction": "and",
             "target": "governments and the actual situation we should keep supporting our Indian government also"
         },
         {
@@ -1623,7 +1623,7 @@
         },
         {
             "folder": "subtitle_0047_Operation_Sindoor_has_not_ended_as_yet_",
-            "prediction": "and",
+            "prediction": "Operation Sindoor has not ended as yet Depending on the discussion it may be",
             "target": "Operation Sindoor has not ended as yet Depending on the discussion it may be"
         },
         {
@@ -1653,12 +1653,12 @@
         },
         {
             "folder": "subtitle_0061_LeT_JeM_and_Hizbul",
-            "prediction": "LeT JeM and Hizbul",
+            "prediction": "and",
             "target": "LeT JeM and Hizbul"
         },
         {
             "folder": "subtitle_0063_JeM_and_Hizbul_Mujahideen_have_been_used",
-            "prediction": "JeM and Hizbul Mujahideen have been used to train and",
+            "prediction": "with",
             "target": "JeM and Hizbul Mujahideen have been used to train and"
         },
         {
@@ -1683,12 +1683,12 @@
         },
         {
             "folder": "subtitle_0073_of_the_top_terror_camps_in_PoK_Pakistan",
-            "prediction": "of the top terror camps in PoK Pakistan were specifically targeted",
+            "prediction": "camps",
             "target": "of the top terror camps in PoK Pakistan were specifically targeted"
         },
         {
             "folder": "subtitle_0075_Pakistan_were_specifically_targeted_and_",
-            "prediction": "Pakistan were specifically targeted and completely destroyed under Operation",
+            "prediction": "Pakistan",
             "target": "Pakistan were specifically targeted and completely destroyed under Operation"
         },
         {
@@ -1698,7 +1698,7 @@
         },
         {
             "folder": "subtitle_0079_achievement_Operation_Sindoor_change_th",
-            "prediction": "achievement Operation Sindoor change the usual",
+            "prediction": "achievement",
             "target": "achievement Operation Sindoor change the usual"
         },
         {
@@ -1708,7 +1708,7 @@
         },
         {
             "folder": "subtitle_0087_Pakistan_Pakistan_was_left_embarrassing",
-            "prediction": "Pakistan Pakistan was left embarrassing",
+            "prediction": "left",
             "target": "Pakistan Pakistan was left embarrassing"
         },
         {
@@ -1733,7 +1733,7 @@
         },
         {
             "folder": "subtitle_0099_As_India_now_will_enter_further_not_only",
-            "prediction": "As India now will enter further not only in",
+            "prediction": "to",
             "target": "As India now will enter further not only in"
         },
         {
@@ -1753,7 +1753,7 @@
         },
         {
             "folder": "subtitle_0109_strongly_The_second_achievement_is_that",
-            "prediction": "strongly The second achievement is that India destroyed terror camps in",
+            "prediction": "which",
             "target": "strongly The second achievement is that India destroyed terror camps in"
         },
         {
@@ -1793,7 +1793,7 @@
         },
         {
             "folder": "subtitle_0125_numerous_terrorist_attacks_and_constantl",
-            "prediction": "and",
+            "prediction": "numerous terrorist attacks and constantly pursued peace talks Not any more We have enough head",
             "target": "numerous terrorist attacks and constantly pursued peace talks Not any more We have enough head"
         },
         {
@@ -1818,12 +1818,12 @@
         },
         {
             "folder": "subtitle_0135_aggressive_retaliation_We_have_also_con",
-            "prediction": "aggressive retaliation We have also conveyed to Pakistan that any support for terrorism no",
+            "prediction": "to",
             "target": "aggressive retaliation We have also conveyed to Pakistan that any support for terrorism no"
         },
         {
             "folder": "subtitle_0137_Pakistan_that_any_support_for_terrorism_",
-            "prediction": "Pakistan that any support for terrorism no matter how small it is will be met with fierce",
+            "prediction": "to",
             "target": "Pakistan that any support for terrorism no matter how small it is will be met with fierce"
         },
         {
@@ -1843,12 +1843,12 @@
         },
         {
             "folder": "subtitle_0147_We_are_aware_of_terrorists_hiding_in_Pak",
-            "prediction": "We are aware of terrorists hiding in Pakistan and any further support for them will be",
+            "prediction": "of",
             "target": "We are aware of terrorists hiding in Pakistan and any further support for them will be"
         },
         {
             "folder": "subtitle_0149_Pakistan_and_any_further_support_for_the",
-            "prediction": "Pakistan and any further support for them will be met with strong action This was Operation",
+            "prediction": "the",
             "target": "Pakistan and any further support for them will be met with strong action This was Operation"
         },
         {
@@ -1858,7 +1858,7 @@
         },
         {
             "folder": "subtitle_0155_achievement_India_clearly_showed_that_P",
-            "prediction": "achievement India clearly showed that Pakistan s air defence",
+            "prediction": "India",
             "target": "achievement India clearly showed that Pakistan s air defence"
         },
         {
@@ -1868,7 +1868,7 @@
         },
         {
             "folder": "subtitle_0161_India_used_Rufaol_jets_with_powerful",
-            "prediction": "used",
+            "prediction": "India used Rufaol jets with powerful",
             "target": "India used Rufaol jets with powerful"
         },
         {
@@ -1878,12 +1878,12 @@
         },
         {
             "folder": "subtitle_0165_strikes_But_Pakistans_defence_was",
-            "prediction": "strikes But Pakistan s defence was",
+            "prediction": "strikes",
             "target": "strikes But Pakistan s defence was"
         },
         {
             "folder": "subtitle_0167_strikes_But_Pakistans_defence_was_unab",
-            "prediction": "strikes But Pakistan s defence was unable to shoot it",
+            "prediction": "defence",
             "target": "strikes But Pakistan s defence was unable to shoot it"
         },
         {
@@ -1893,12 +1893,12 @@
         },
         {
             "folder": "subtitle_0171_down_Indian_missiles_were_able_to_destr",
-            "prediction": "down Indian missiles were able to destroy the sites within 25 minutes",
+            "prediction": "Army",
             "target": "down Indian missiles were able to destroy the sites within 25 minutes"
         },
         {
             "folder": "subtitle_0173_destroy_the_sites_within_25_minutes_Ind",
-            "prediction": "destroy the sites within 25 minutes India s fighter jets written safely as",
+            "prediction": "s",
             "target": "destroy the sites within 25 minutes India s fighter jets written safely as"
         },
         {
@@ -1913,22 +1913,22 @@
         },
         {
             "folder": "subtitle_0179_and_even_slightly_damages_a_single_India",
-            "prediction": "and even slightly damages a single Indian aircraft Operation Sindhu revealed the",
+            "prediction": "India",
             "target": "and even slightly damages a single Indian aircraft Operation Sindhu revealed the"
         },
         {
             "folder": "subtitle_0181_aircraft_Operation_Sindhu_revealed_the_",
-            "prediction": "aircraft Operation Sindhu revealed the weakness of Pakistan s air defence especially",
+            "prediction": "s",
             "target": "aircraft Operation Sindhu revealed the weakness of Pakistan s air defence especially"
         },
         {
             "folder": "subtitle_0183_weakness_of_Pakistans_air_defence_espec",
-            "prediction": "weakness of Pakistan s air defence especially in contrast to India s highly advanced",
+            "prediction": "Pakistan",
             "target": "weakness of Pakistan s air defence especially in contrast to India s highly advanced"
         },
         {
             "folder": "subtitle_0185_capabilities_More_than_100_Pakistani",
-            "prediction": "capabilities More than 100 Pakistani",
+            "prediction": "100",
             "target": "capabilities More than 100 Pakistani"
         },
         {
@@ -1948,17 +1948,17 @@
         },
         {
             "folder": "subtitle_0193_That_is_Akash_Arrow_Akash_Arrows_interc",
-            "prediction": "That is Akash Arrow Akash Arrows intercepted and brought down",
+            "prediction": "India",
             "target": "That is Akash Arrow Akash Arrows intercepted and brought down"
         },
         {
             "folder": "subtitle_0195_Arrow_Akash_Arrows_intercepted_and_brou",
-            "prediction": "Arrow Akash Arrows intercepted and brought down Pakistani drones with ease as easily",
+            "prediction": "Indian",
             "target": "Arrow Akash Arrows intercepted and brought down Pakistani drones with ease as easily"
         },
         {
             "folder": "subtitle_0197_Pakistani_drones_with_ease_as_easily_as_",
-            "prediction": "Pakistani drones with ease as easily as swatting mosquitoes In the Mahabharata war",
+            "prediction": "India",
             "target": "Pakistani drones with ease as easily as swatting mosquitoes In the Mahabharata war"
         },
         {
@@ -1973,12 +1973,12 @@
         },
         {
             "folder": "subtitle_0203_destroy_incoming_enemy_arrows_Akash_the",
-            "prediction": "destroy incoming enemy arrows Akash the defence system worked on similar concept",
+            "prediction": "India",
             "target": "destroy incoming enemy arrows Akash the defence system worked on similar concept"
         },
         {
             "folder": "subtitle_0205_defence_system_worked_on_similar_concept",
-            "prediction": "defence system worked on similar concept and shot down multiple drones at the same",
+            "prediction": "India",
             "target": "defence system worked on similar concept and shot down multiple drones at the same"
         },
         {
@@ -2003,7 +2003,7 @@
         },
         {
             "folder": "subtitle_0215_drone_touch_the_ground_Each_drone_was_i",
-            "prediction": "drone touch the ground Each drone was intercepted mid air The Powerful and",
+            "prediction": "were",
             "target": "drone touch the ground Each drone was intercepted mid air The Powerful and"
         },
         {
@@ -2018,7 +2018,7 @@
         },
         {
             "folder": "subtitle_0221_Made_in_India_Wow_It_shows_that_India_",
-            "prediction": "Made in India Wow It shows that India is finally becoming atmanirbhar Bharat and now many",
+            "prediction": "India",
             "target": "Made in India Wow It shows that India is finally becoming atmanirbhar Bharat and now many"
         },
         {
@@ -2038,7 +2038,7 @@
         },
         {
             "folder": "subtitle_0229_India_was_clearly_aimed_at_avoiding_harm",
-            "prediction": "India was clearly aimed at avoiding harming Pakistani",
+            "prediction": "harming",
             "target": "India was clearly aimed at avoiding harming Pakistani"
         },
         {
@@ -2068,7 +2068,7 @@
         },
         {
             "folder": "subtitle_0241_had_to_be_eliminated_Our_aim_is_that_no",
-            "prediction": "of",
+            "prediction": "had to be eliminated Our aim is that not a single terrorist should exist in the",
             "target": "had to be eliminated Our aim is that not a single terrorist should exist in the"
         },
         {
@@ -2078,7 +2078,7 @@
         },
         {
             "folder": "subtitle_0245_world_India_was_precise_in_its_attack_a",
-            "prediction": "world India was precise in its attack and did not want any escalation to a bigger",
+            "prediction": "India",
             "target": "world India was precise in its attack and did not want any escalation to a bigger"
         },
         {
@@ -2088,7 +2088,7 @@
         },
         {
             "folder": "subtitle_0251_top_terrorist_leaders_including_Mastudan",
-            "prediction": "top terrorist leaders including Mastudan Aza s",
+            "prediction": "leaders",
             "target": "top terrorist leaders including Mastudan Aza s"
         },
         {
@@ -2098,7 +2098,7 @@
         },
         {
             "folder": "subtitle_0255_brother_who_had_caused_multiple_attacks_",
-            "prediction": "s",
+            "prediction": "brother who had caused multiple attacks in India were on India s most wanted",
             "target": "brother who had caused multiple attacks in India were on India s most wanted"
         },
         {
@@ -2113,7 +2113,7 @@
         },
         {
             "folder": "subtitle_0265_killed_in_a_single_day_during_Operation_",
-            "prediction": "killed in a single day during Operation Sindoor with names ticked off the most wanted",
+            "prediction": "Operation",
             "target": "killed in a single day during Operation Sindoor with names ticked off the most wanted"
         },
         {
@@ -2128,7 +2128,7 @@
         },
         {
             "folder": "subtitle_0273_for_example_Masood_Azhars_brother_on_th",
-            "prediction": "for example Masood Azhar s brother on the list was killed in a single day through rich",
+            "prediction": "s",
             "target": "for example Masood Azhar s brother on the list was killed in a single day through rich"
         },
         {
@@ -2163,7 +2163,7 @@
         },
         {
             "folder": "subtitle_0287_Some_Indian_soldiers_were_martyred_enrag",
-            "prediction": "India",
+            "prediction": "Some Indian soldiers were martyred enraging India leading it to hit back This lead to",
             "target": "Some Indian soldiers were martyred enraging India leading it to hit back This lead to"
         },
         {
@@ -2183,7 +2183,7 @@
         },
         {
             "folder": "subtitle_0297_Leader_Usman_Yousuf_also_died_Also_the_",
-            "prediction": "Leader Usman Yousuf also died Also the attacks damaged near 20 off Pakistan",
+            "prediction": "Pakistan",
             "target": "Leader Usman Yousuf also died Also the attacks damaged near 20 off Pakistan"
         },
         {
@@ -2213,12 +2213,12 @@
         },
         {
             "folder": "subtitle_0311_Also_the_navy_army_stood_ready_in_the_Ar",
-            "prediction": "Also the navy army stood ready in the Arabian sea they are below Pakistan",
+            "prediction": "Pakistan",
             "target": "Also the navy army stood ready in the Arabian sea they are below Pakistan"
         },
         {
             "folder": "subtitle_0313_ready_with_military",
-            "prediction": "ready with military",
+            "prediction": "with",
             "target": "ready with military"
         },
         {
@@ -2228,12 +2228,12 @@
         },
         {
             "folder": "subtitle_0317_drills_and_made_sure_Pakistan_navy_could",
-            "prediction": "drills and made sure Pakistan navy could not move",
+            "prediction": "and",
             "target": "drills and made sure Pakistan navy could not move"
         },
         {
             "folder": "subtitle_0319_drills_and_made_sure_Pakistan_navy_could",
-            "prediction": "drills and made sure Pakistan navy could not move freely against India remain on",
+            "prediction": "Pakistan",
             "target": "drills and made sure Pakistan navy could not move freely against India remain on"
         },
         {
@@ -2253,7 +2253,7 @@
         },
         {
             "folder": "subtitle_0327_India_Strong_countries_like_USA_Russia",
-            "prediction": "India Strong countries like USA Russia and other countries extended their",
+            "prediction": "India",
             "target": "India Strong countries like USA Russia and other countries extended their"
         },
         {
@@ -2263,7 +2263,7 @@
         },
         {
             "folder": "subtitle_0331_support_to_India_Earlier_these_countrie",
-            "prediction": "support to India Earlier these countries ignore attacks in",
+            "prediction": "with",
             "target": "support to India Earlier these countries ignore attacks in"
         },
         {
@@ -2288,12 +2288,12 @@
         },
         {
             "folder": "subtitle_0343_stand_right_all_this_while_India_endured",
-            "prediction": "stand right all this while India endured",
+            "prediction": "India",
             "target": "stand right all this while India endured"
         },
         {
             "folder": "subtitle_0345_stand_right_all_this_while_India_endured",
-            "prediction": "stand right all this while India endured Pakistan terror killed many I empower",
+            "prediction": "this",
             "target": "stand right all this while India endured Pakistan terror killed many I empower"
         },
         {
@@ -2303,7 +2303,7 @@
         },
         {
             "folder": "subtitle_0349_terrorists_will_never_change_major_world",
-            "prediction": "terrorists will never change major world power support India in defending their",
+            "prediction": "India",
             "target": "terrorists will never change major world power support India in defending their"
         },
         {
@@ -2328,17 +2328,17 @@
         },
         {
             "folder": "subtitle_0359_over_the_ownership_of_Jammu_and_Kashmir",
-            "prediction": "over the ownership of Jammu and Kashmir The world once ignored but now they see the",
+            "prediction": "of",
             "target": "over the ownership of Jammu and Kashmir The world once ignored but now they see the"
         },
         {
             "folder": "subtitle_0361_world_once_ignored_but_now_they_see_the_",
-            "prediction": "world once ignored but now they see the truth These bombings and shootings are",
+            "prediction": "of",
             "target": "world once ignored but now they see the truth These bombings and shootings are"
         },
         {
             "folder": "subtitle_0365_pure_terror_Its",
-            "prediction": "pure terror It s",
+            "prediction": "It",
             "target": "pure terror It s"
         },
         {
@@ -2353,17 +2353,17 @@
         },
         {
             "folder": "subtitle_0371_lives_Now_the_world_will_recognize_Indi",
-            "prediction": "lives Now the world will recognize India s true capabilities The planning for",
+            "prediction": "of",
             "target": "lives Now the world will recognize India s true capabilities The planning for"
         },
         {
             "folder": "subtitle_0373_Indias_true_capabilities_The_planning_",
-            "prediction": "India s true capabilities The planning for Operation Sindoor is still going on",
+            "prediction": "Operation",
             "target": "India s true capabilities The planning for Operation Sindoor is still going on"
         },
         {
             "folder": "subtitle_0375_Operation_Sindoor_is_still_going_on_You",
-            "prediction": "Operation Sindoor is still going on You people of India must continue to",
+            "prediction": "of",
             "target": "Operation Sindoor is still going on You people of India must continue to"
         },
         {
@@ -2373,7 +2373,7 @@
         },
         {
             "folder": "subtitle_0001_There_was_a_major_war_going_on_between",
-            "prediction": "There was a major war going on between",
+            "prediction": "There",
             "target": "There was a major war going on between"
         },
         {
@@ -2393,7 +2393,7 @@
         },
         {
             "folder": "subtitle_0009_ahead_American_President_Donald_Trump_p",
-            "prediction": "ahead American President Donald Trump posted a tweet that shocked many He",
+            "prediction": "the",
             "target": "ahead American President Donald Trump posted a tweet that shocked many He"
         },
         {
@@ -2403,7 +2403,7 @@
         },
         {
             "folder": "subtitle_0013_said_that_India_and_Pakistan_has_have_ag",
-            "prediction": "never",
+            "prediction": "said that India and Pakistan has have agreed to a ceasefire and end the war",
             "target": "said that India and Pakistan has have agreed to a ceasefire and end the war"
         },
         {
@@ -2433,7 +2433,7 @@
         },
         {
             "folder": "subtitle_0025_May_2025_it_immediately_launched_an_air",
-            "prediction": "May 2025 it immediately launched an air strike at terrorist camps in",
+            "prediction": "2025",
             "target": "May 2025 it immediately launched an air strike at terrorist camps in"
         },
         {
@@ -2453,7 +2453,7 @@
         },
         {
             "folder": "subtitle_0037_act_Then_on_8th_May_Pakistan_responded",
-            "prediction": "act",
+            "prediction": "act Then on 8th May Pakistan responded by",
             "target": "act Then on 8th May Pakistan responded by"
         },
         {
@@ -2463,7 +2463,7 @@
         },
         {
             "folder": "subtitle_0041_sending_unarmed_drones_to_attack_India_",
-            "prediction": "sending unarmed drones to attack India It attacked Indian cities India",
+            "prediction": "India",
             "target": "sending unarmed drones to attack India It attacked Indian cities India"
         },
         {
@@ -2478,7 +2478,7 @@
         },
         {
             "folder": "subtitle_0047_Pakistans_air_defense_systems_No_attac",
-            "prediction": "Pakistan s air defense systems No attacks took place in India",
+            "prediction": "Pakistan",
             "target": "Pakistan s air defense systems No attacks took place in India"
         },
         {
@@ -2533,12 +2533,12 @@
         },
         {
             "folder": "subtitle_0075_Vance_about_the_IndiaPakistan_conflict_",
-            "prediction": "Vance about the IndiaPakistan conflict He responded by saying that s none of",
+            "prediction": "Pakistan",
             "target": "Vance about the IndiaPakistan conflict He responded by saying that s none of"
         },
         {
             "folder": "subtitle_0079_business_Then_on_10th_May_2025",
-            "prediction": "business Then on 10th May 2025",
+            "prediction": "2025",
             "target": "business Then on 10th May 2025"
         },
         {
@@ -2568,12 +2568,12 @@
         },
         {
             "folder": "subtitle_0091_ceasefire_People_were_stunned_by_this_",
-            "prediction": "ceasefire People were stunned by this He said the whole situation is fine now",
+            "prediction": "this",
             "target": "ceasefire People were stunned by this He said the whole situation is fine now"
         },
         {
             "folder": "subtitle_0093_He_said_the_whole_situation_is_fine_now",
-            "prediction": "He said the whole situation is fine now People wondered how this could turn",
+            "prediction": "a",
             "target": "He said the whole situation is fine now People wondered how this could turn"
         },
         {
@@ -2588,7 +2588,7 @@
         },
         {
             "folder": "subtitle_0099_2025_Donald_Trump_posted_another_tweet",
-            "prediction": "2025 Donald Trump posted another tweet People were shocked Let me tell",
+            "prediction": "happened",
             "target": "2025 Donald Trump posted another tweet People were shocked Let me tell"
         },
         {
@@ -2598,7 +2598,7 @@
         },
         {
             "folder": "subtitle_0103_you_what_he_said_On_11th_May_2025_in_h",
-            "prediction": "to",
+            "prediction": "you what he said On 11th May 2025 in his",
             "target": "you what he said On 11th May 2025 in his"
         },
         {
@@ -2623,12 +2623,12 @@
         },
         {
             "folder": "subtitle_0117_said_that_millions_of_people_could_have",
-            "prediction": "said that millions of people could have",
+            "prediction": "people",
             "target": "said that millions of people could have"
         },
         {
             "folder": "subtitle_0119_said_that_millions_of_people_could_have_",
-            "prediction": "said that millions of people could have died People were stunned by the",
+            "prediction": "people",
             "target": "said that millions of people could have died People were stunned by the"
         },
         {
@@ -2643,12 +2643,12 @@
         },
         {
             "folder": "subtitle_0125_million_people_have_died_They_wondered_",
-            "prediction": "million people have died They wondered that there could have been a",
+            "prediction": "people",
             "target": "million people have died They wondered that there could have been a"
         },
         {
             "folder": "subtitle_0129_nuclear_attack_They_wondered_whether_In",
-            "prediction": "nuclear attack They wondered whether India or",
+            "prediction": "India",
             "target": "nuclear attack They wondered whether India or"
         },
         {
@@ -2678,12 +2678,12 @@
         },
         {
             "folder": "subtitle_0143_this_This_has_sent_panic_waves_across_t",
-            "prediction": "panic",
+            "prediction": "this This has sent panic waves across the country As per reports Pakistan",
             "target": "this This has sent panic waves across the country As per reports Pakistan"
         },
         {
             "folder": "subtitle_0145_the_country_As_per_reports_Pakistan_he",
-            "prediction": "the country As per reports Pakistan held multiple meetings over the past two",
+            "prediction": "the",
             "target": "the country As per reports Pakistan held multiple meetings over the past two"
         },
         {
@@ -2713,22 +2713,22 @@
         },
         {
             "folder": "subtitle_0157_suspicious_People_suspected_that_Pakist",
-            "prediction": "of",
+            "prediction": "suspicious People suspected that Pakistan was testing the nuclear weapons",
             "target": "suspicious People suspected that Pakistan was testing the nuclear weapons"
         },
         {
             "folder": "subtitle_0159_Pakistan_was_testing_the_nuclear_weapons",
-            "prediction": "Pakistan was testing the nuclear weapons at the Pakistan Afghanistan border",
+            "prediction": "Pakistan",
             "target": "Pakistan was testing the nuclear weapons at the Pakistan Afghanistan border"
         },
         {
             "folder": "subtitle_0161_Because_people_over_there_experienced_a",
-            "prediction": "Because people over there experienced a",
+            "prediction": "experienced",
             "target": "Because people over there experienced a"
         },
         {
             "folder": "subtitle_0163_Because_people_over_there_experienced_a_",
-            "prediction": "Because people over there experienced a medium magnitude earthquake which was",
+            "prediction": "because",
             "target": "Because people over there experienced a medium magnitude earthquake which was"
         },
         {
@@ -2748,7 +2748,7 @@
         },
         {
             "folder": "subtitle_0173_there_After_Trumps_post_what_happened",
-            "prediction": "there After Trump s post what happened next American Vice President JD",
+            "prediction": "After",
             "target": "there After Trump s post what happened next American Vice President JD"
         },
         {
@@ -2763,7 +2763,7 @@
         },
         {
             "folder": "subtitle_0179_Modi_requesting_him_to_stop_the_war_He_",
-            "prediction": "Modi requesting him to stop the war He said that his spies have informed him",
+            "prediction": "never",
             "target": "Modi requesting him to stop the war He said that his spies have informed him"
         },
         {
@@ -2773,12 +2773,12 @@
         },
         {
             "folder": "subtitle_0183_that_the_situation_between_the_two_count",
-            "prediction": "that the situation between the two countries is going to escalate really",
+            "prediction": "be",
             "target": "that the situation between the two countries is going to escalate really"
         },
         {
             "folder": "subtitle_0185_countries_is_going_to_escalate_really_ba",
-            "prediction": "because",
+            "prediction": "countries is going to escalate really badly which is why he requested Modi to",
             "target": "countries is going to escalate really badly which is why he requested Modi to"
         },
         {
@@ -2793,7 +2793,7 @@
         },
         {
             "folder": "subtitle_0191_stop_the_war_Yes_But_if_Pakistan_does_",
-            "prediction": "stop the war Yes But if Pakistan does anything more our response will be far",
+            "prediction": "to",
             "target": "stop the war Yes But if Pakistan does anything more our response will be far"
         },
         {
@@ -2803,17 +2803,17 @@
         },
         {
             "folder": "subtitle_0197_He_said_that_if_Pakistan_even_attempted_",
-            "prediction": "He said that if Pakistan even attempted to",
+            "prediction": "attempted",
             "target": "He said that if Pakistan even attempted to"
         },
         {
             "folder": "subtitle_0199_said_that_if_Pakistan_even_attempted_to_",
-            "prediction": "said that if Pakistan even attempted to do a nuclear attack India would",
+            "prediction": "never",
             "target": "said that if Pakistan even attempted to do a nuclear attack India would"
         },
         {
             "folder": "subtitle_0201_do_a_nuclear_attack_India_would_retalia",
-            "prediction": "do a nuclear attack India would retaliate very badly America does not",
+            "prediction": "India",
             "target": "do a nuclear attack India would retaliate very badly America does not"
         },
         {
@@ -2823,7 +2823,7 @@
         },
         {
             "folder": "subtitle_0205_want_India_and_Pakistan_to_engage_in_nuc",
-            "prediction": "want India and Pakistan to engage in nuclear attacks This is why they want",
+            "prediction": "to and to",
             "target": "want India and Pakistan to engage in nuclear attacks This is why they want"
         },
         {
@@ -2838,22 +2838,22 @@
         },
         {
             "folder": "subtitle_0213_Pakistans_DGMO_called_Indias_DGMO_to_a",
-            "prediction": "Pakistan s DGMO called India s DGMO to agree on a",
+            "prediction": "India",
             "target": "Pakistan s DGMO called India s DGMO to agree on a"
         },
         {
             "folder": "subtitle_0215_ceasefire_The_Indian_army_issued_a",
-            "prediction": "army",
+            "prediction": "ceasefire The Indian army issued a",
             "target": "ceasefire The Indian army issued a"
         },
         {
             "folder": "subtitle_0217_ceasefire_The_Indian_army_issued_a_ster",
-            "prediction": "ceasefire The Indian army issued a stern warning to Pakistan saying that",
+            "prediction": "the",
             "target": "ceasefire The Indian army issued a stern warning to Pakistan saying that"
         },
         {
             "folder": "subtitle_0219_stern_warning_to_Pakistan_saying_that_an",
-            "prediction": "the",
+            "prediction": "stern warning to Pakistan saying that any small attack by them would result in",
             "target": "stern warning to Pakistan saying that any small attack by them would result in"
         },
         {
@@ -2863,12 +2863,12 @@
         },
         {
             "folder": "subtitle_0223_major_retaliation_That_is_if_they_slapp",
-            "prediction": "major retaliation That is if they slapped us once we would retaliate by",
+            "prediction": "were",
             "target": "major retaliation That is if they slapped us once we would retaliate by"
         },
         {
             "folder": "subtitle_0227_slapping_twice_Now_India_agreed_to_the_",
-            "prediction": "slapping twice Now India agreed to the ceasefire On",
+            "prediction": "the",
             "target": "slapping twice Now India agreed to the ceasefire On"
         },
         {
@@ -2878,7 +2878,7 @@
         },
         {
             "folder": "subtitle_0231_11th_May_2025_at_a_press_conference_arm",
-            "prediction": "11th May 2025 at a press conference army officials were present",
+            "prediction": "army",
             "target": "11th May 2025 at a press conference army officials were present"
         },
         {
@@ -2923,7 +2923,7 @@
         },
         {
             "folder": "subtitle_0255_answer_The_officials_also",
-            "prediction": "answer The officials also",
+            "prediction": "answer",
             "target": "answer The officials also"
         },
         {
@@ -2948,7 +2948,7 @@
         },
         {
             "folder": "subtitle_0265_Pakistan_responds_now_we_will_retaliate",
-            "prediction": "Pakistan responds now we will retaliate very strongly as we have the capability",
+            "prediction": "Pakistan",
             "target": "Pakistan responds now we will retaliate very strongly as we have the capability"
         },
         {
@@ -2958,17 +2958,17 @@
         },
         {
             "folder": "subtitle_0269_to_destroy_Pakistan_completely_Presiden",
-            "prediction": "to destroy Pakistan completely President Donald Trump is",
+            "prediction": "Donald",
             "target": "to destroy Pakistan completely President Donald Trump is"
         },
         {
             "folder": "subtitle_0271_completely_President_Donald_Trump_is_co",
-            "prediction": "Donald is",
+            "prediction": "completely President Donald Trump is continuously trying to deescalate the",
             "target": "completely President Donald Trump is continuously trying to deescalate the"
         },
         {
             "folder": "subtitle_0273_continuously_trying_to_deescalate_the_si",
-            "prediction": "continuously trying to deescalate the situation and does not want a nuclear",
+            "prediction": "and",
             "target": "continuously trying to deescalate the situation and does not want a nuclear"
         },
         {
@@ -3038,7 +3038,7 @@
         },
         {
             "folder": "subtitle_0301_is_only_between_India_and_Pakistan_to_ta",
-            "prediction": "is only between India and Pakistan to talk about this Now let s wait for",
+            "prediction": "India",
             "target": "is only between India and Pakistan to talk about this Now let s wait for"
         }
     ]
